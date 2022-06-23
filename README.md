@@ -33,11 +33,10 @@ Crop the image using cropped_image=org_img[10:350,320:560]
 ### Step8:
 Display all the Transformed images.
 
+
 ## Program:
-```python
-Developed By: DIVYA MEENAKSHI A
-Register Number:212220230014
-```
+### Developed By: DIVYA MEENAKSHI A
+### Register Number:212220230014
 ```python
 import cv2
 import numpy as np
